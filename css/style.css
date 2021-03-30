@@ -1,0 +1,672 @@
+.container{
+
+    width: 100%;
+    float: left;
+}
+                       /* Header section */
+header{
+
+    width: 100%;
+    height: 20%;
+    float: left;
+    background-color: #800001
+}
+
+.header-one{
+
+    width: 30%;
+    float: left;
+    display:inline-block;
+}
+
+.header-one img{
+
+    height: 55px;
+}
+
+.header-two {
+    width: 70%;
+    float: left;
+   
+} 
+
+
+
+.header-two ul
+{
+  
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 15px;
+
+}
+
+        
+
+.header-two ul li a {
+    text-decoration: white;
+    float: left;
+    padding: 20px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: white;
+
+}
+    
+
+.header-three
+{
+    width: 100%;
+    height: 310px;
+    float: left;
+    background-color: #DD4348
+
+}
+
+.header-three p{
+color: white;
+font-size: 25px;
+text-align: center;
+margin: 50px;
+padding: 20px;
+
+}
+
+.header-three ul{
+    display: inline-block;
+    margin-left: 43%;
+    padding: 10px;
+
+}
+
+
+.header-three ul button {
+    background-color:#F07649;
+    color: white;
+    height: 35px;;
+
+}
+
+                           /* Service section */
+
+.service
+{
+   width: 100%;
+   float: left;
+   background-color: #2FD0C0
+
+   
+}
+
+.service-para h2
+
+{
+    text-align: center;
+
+}
+
+.service-para span
+{
+    border-bottom: 2px solid black;
+    display: block;
+    width: 10%;
+    margin: 0px auto;
+}
+
+
+
+
+.service-para p
+{
+    text-align: center;
+}
+
+.service-menu {
+    width: 100%;
+    float: left;
+    margin: 35px;
+
+}
+
+.service-menu-one{
+
+    width:25%;
+    float: left;
+          
+}
+
+.service-menu-two{
+    width:25%;
+    float: left;
+          
+    
+}
+
+.service-menu-three{
+    width:25%;
+    float: left;
+    
+          
+}
+
+.service-menu-four{
+    width:25%;
+    float: left;
+          
+    
+}
+.service-menu h2 {
+    color: white;
+
+}
+.service-menu p {
+    color: white;
+    
+}
+
+
+                /*  Team section */
+
+.team{
+    background-color: #800001;
+    width: 100%;
+    float: left;
+  
+}
+
+
+
+.team-para h2
+
+{
+    text-align: center;
+
+}
+
+.team-para span
+{
+    border-bottom: 2px solid black;
+    display: block;
+    width: 10%;
+    margin: 0px auto;
+}
+
+
+
+
+.team-para p
+{
+    text-align: center;
+}
+
+
+
+.team-menu {
+    width: 100%;
+    float: left;
+    margin: 35px;
+
+}
+
+.team-menu-one{
+
+    width:25%;
+    float: left;
+          
+}
+
+.team-menu-two{
+    width:25%;
+    float: left;
+          
+    
+}
+
+.team-menu-three{
+    width:25%;
+    float: left;
+    
+          
+}
+
+.team-menu-four{
+    width:25%;
+    float: left;
+          
+    
+}
+
+.team-menu-one ul {
+
+    list-style: none;
+    display: block;
+    float: left
+}
+
+.team-menu-one ul li{
+
+    float: left; 
+    padding: 3px;
+}
+
+.team-menu-one ul li a{
+    
+    color: #D74681;
+}
+
+
+
+.team-menu-two ul {
+
+    list-style: none;
+    display: block;
+    float: left
+}
+
+.team-menu-two ul li{
+
+    float: left; 
+    padding: 3px;
+}
+
+.team-menu-two ul li a{
+    
+    color: #D74681;
+}
+
+
+.team-menu-three ul {
+
+    list-style: none;
+    display: block;
+    float: left
+}
+
+.team-menu-three ul li{
+
+    float: left; 
+    padding: 3px;
+}
+
+.team-menu-three ul li a{
+    
+    color: #D74681;
+}
+
+
+.team-menu-four ul {
+
+    list-style: none;
+    display: block;
+    float: left
+}
+
+.team-menu-four ul li{
+
+    float: left; 
+    padding: 3px;
+}
+
+.team-menu-four ul li a{
+    
+    color: #D74681;
+}
+
+                        /* Skill section */
+
+
+.skill-para{
+    width: 100%;
+    float: left;
+}
+                        
+.skill-para h2
+
+{
+    text-align: center;
+
+}
+
+.skill-para span
+{
+    border-bottom: 2px solid black;
+    display: block;
+    width: 10%;
+    margin: 0px auto;
+}
+
+
+
+
+.skill-para p
+{
+    text-align: center;
+}
+
+
+
+
+.skill-pic {
+    width: 100%;
+    float: left;
+    margin: 35px;
+
+}
+
+.skill-pic-one{
+
+    width:25%;
+    float: left;
+          
+}
+
+.skill-pic-two{
+    width:25%;
+    float: left;
+          
+    
+}
+
+.skill-pic-three{
+    width:25%;
+    float: left;
+    
+          
+}
+
+.skill-pic-four{
+    width:25%;
+    float: left;
+          
+    
+}
+
+
+                           /* Portfolio */
+
+
+
+.portfolio{
+    background-color: #FEDB97;
+    width: 100%;
+    float: left;
+  
+}
+
+
+
+.portfolio-para h2
+
+{
+    text-align: center;
+
+}
+
+.portfolio-para span
+{
+    border-bottom: 2px solid black;
+    display: block;
+    width: 10%;
+    margin: 0px auto;
+}
+
+
+
+
+.portfolio-para p
+{
+    text-align: center;
+}
+
+.portfolio-menu-one {
+float: left;
+width: 200px;
+display: block;
+}
+
+.portfolio-menu-two {
+    float: left;
+    width: 70%;
+
+
+}
+
+.portfolio-menu-two li {
+
+    list-style-type: none;
+    float: left;
+    margin: 6px 20px 29px 116px;
+    padding: 3px;
+    background-color: #c3b08a;
+    
+    
+}
+
+.portfolio-menu-two li a {
+
+    text-decoration: none;
+    color: white;
+}
+
+.portfolio-img{
+    width: 100%;
+    float: left;
+    display: block;
+    margin-left: 143px;
+}
+
+
+.portfolio-btn{
+    width: 100%;
+    float: left;
+}
+
+.portfolio-btn ul{
+    
+    text-decoration: none;
+    list-style-type: none;
+    margin: 60px;
+    margin-left: 490px;
+}
+
+.portfolio-btn ul li button{
+
+    background-color: #2FD0C0;
+    margin: 20px;
+    padding: 15px;
+    color: white;
+}
+    
+
+                   /*   About section */
+
+                   
+.about{
+    background-color: #D74681;
+    width: 100%;
+    float: left;
+  
+}
+
+              
+                
+.about-para{
+    width: 100%;
+    float: left;
+}
+                        
+.about-para h2
+
+{
+    text-align: center;
+    color: white;
+}
+
+.about-para span
+{
+    border-bottom: 2px solid rgb(20, 20, 20);
+    display: block;
+    width: 10%;
+    margin: 0px auto;
+}
+
+
+
+
+.about-para p
+{
+    text-align: center;
+    color: white;
+}
+
+.about-fullone
+{
+    width: 100%;
+    float: left;
+
+}
+
+.about-fullone-img{
+ 
+ 
+    width: 20%;
+    float: left;
+    margin-left: 80px;
+}
+
+.about-fullone-para{
+    width: 20%;
+    float: left;
+    
+}
+
+.about-fullone-para p{
+    color: white;
+}
+.about-fullone-para h2{
+    color: white;
+
+}
+.about-fullone-para h6{
+    color: yellow;
+
+}
+
+
+                              /* Get in Touch */
+
+.getInTouch{
+
+    width: 100%;
+    float: left;
+    background-color: #3D549A;
+}  
+
+.getInTouch-one{
+
+    width: 100%;
+    float: left;
+}
+
+
+.getInTouch-oneI{
+
+    
+        width: 50%;
+        display: inline-block;
+        margin: 22px 443px 8px;
+        padding: 25px;
+    background-color: #3D549A;
+    
+    
+
+}
+.getInTouch-oneII{
+
+    width: 50%;
+  
+    margin: 17px 0px opx 44px;
+    margin: -52px 19px 59px 684px;
+    background-color: #3D549A;
+
+}
+.formControl1{
+
+    background-color: #3D549A;
+    color: white;
+}
+
+
+.getInTouch-two{
+
+    width: 100%;
+    float: left;
+}
+
+.formControltwo{
+    
+    background-color: #3D549A;
+    margin: 3px 273px;
+    padding: 25px 144px;
+    color:white;
+}
+
+
+
+.getInTouch-two1{
+    width: 100%;
+    margin: -17px 39px 53px 185px;
+    float: inherit;
+}
+
+.getInTouch-btn{
+
+    background-color: #2FD0C0;
+    display: block;
+    margin: 28px 0px 0px 419px;
+    padding: 10px 29px 15px 38px;
+    color: White;
+}
+
+
+
+
+
+               /* Footer */
+footer{
+    width: 100%;
+    float: left;
+    background-color: #25429b;
+}
+               
+.footer-two {
+    width: 100%;
+    float: left;
+   
+} 
+
+
+
+.footer-two ul
+{
+  
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 15px;
+
+}
+
+        
+
+.footer-two ul li a {
+    text-decoration: rgb(83, 40, 40);
+    float: left;
+    padding: 20px;
+    margin-left: 51px;
+    font-size: 20px;
+    color: rgb(240, 233, 233);
+
+}
+    
+
+
